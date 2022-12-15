@@ -25,4 +25,4 @@ https://github.com/SIFAT-XD/SIFAT
 
 $ cd SIFAT
 
-$ python sifat2.0-.py
+$ python sifat2.0-RANDOM.py
